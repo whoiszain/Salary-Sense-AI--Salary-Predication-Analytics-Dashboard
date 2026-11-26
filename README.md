@@ -228,7 +228,7 @@ Kaggle-origin **"Salary Data"** with the columns *Age, Gender, Education Level, 
 
 ## 👤 Author
 
-**Zain Ali** — BS Artificial Intelligence student, Karachi, Pakistan
+**Zain Ali** — BS Artificial Intelligence
 
 ---
 
