@@ -228,10 +228,7 @@ Kaggle-origin **"Salary Data"** with the columns *Age, Gender, Education Level, 
 
 ## 👤 Author
 
-**Syed Umer Ahmed** — BS Artificial Intelligence student, Karachi, Pakistan
-
-[![GitHub](https://img.shields.io/badge/GitHub-syedumerfarooq24--ops-181717?logo=github)](https://github.com/syedumerfarooq24-ops)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Syed%20Umer%20Ahmed-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-umer-ahmed-b47226406/)
+**Zain Ali** — BS Artificial Intelligence student, Karachi, Pakistan
 
 ---
 
